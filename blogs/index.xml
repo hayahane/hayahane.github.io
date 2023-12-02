@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>猫驼小天地</title>
+    <link>https://alpac4t.fun/blogs/</link>
+    <description>Recent content on 猫驼小天地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2023 Alpac4t</copyright>
+    <atom:link href="https://alpac4t.fun/blogs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

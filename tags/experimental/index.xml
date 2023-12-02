@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental on 猫驼小天地</title>
+    <link>https://alpac4t.fun/tags/experimental/</link>
+    <description>Recent content in Experimental on 猫驼小天地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2023 Alpac4t</copyright>
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>白璧无瑕</title>
+      <link>https://alpac4t.fun/project/flawless/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alpac4t.fun/project/flawless/</guid>
+      <description>PreviousNextsads《Flawless》并不是可能并不是一款以游戏性胜出的游戏。 我们想通过开发一款将对主题的表达放到第一位的游戏，来探索游戏设计的新方法和游戏表达的边界。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/project/flawless/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

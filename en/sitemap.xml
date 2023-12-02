@@ -4,7 +4,6 @@
 
   <url>
     <loc>https://alpac4t.fun/en/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,35 +18,48 @@
     />
   </url>
   <url>
-    <loc>https://alpac4t.fun/en/posts/example/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>https://alpac4t.fun/en/blogs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://alpac4t.fun/posts/example/"
+      href="https://alpac4t.fun/blogs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://alpac4t.fun/en/posts/example/"
+      href="https://alpac4t.fun/en/blogs/"
     />
   </url>
   <url>
-    <loc>https://alpac4t.fun/en/posts/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>https://alpac4t.fun/en/project/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://alpac4t.fun/posts/"
+      href="https://alpac4t.fun/project/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://alpac4t.fun/en/posts/"
+      href="https://alpac4t.fun/en/project/"
+    />
+  </url>
+  <url>
+    <loc>https://alpac4t.fun/en/sketch/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://alpac4t.fun/sketch/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alpac4t.fun/en/sketch/"
     />
   </url>
   <url>
