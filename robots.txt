@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alpac4t.fun/sitemap.xml
