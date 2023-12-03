@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2023 Alpac4t</copyright>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/sketch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/sketch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>风格测试：低比特抖动</title>
+      <link>https://alpac4t.fun/sketch/styletest_dither/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alpac4t.fun/sketch/styletest_dither/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/sketch/styletest_dither/featured.png" />
+    </item>
+    
     <item>
       <title>UI设计 1</title>
       <link>https://alpac4t.fun/sketch/ui_design_1/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://alpac4t.fun/sketch/ui_design_1/</guid>
-      <description>《深空回响》中的界面和LOGO # </description>
+      <description>《深空回响》中的界面和LOGO #</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/sketch/ui_design_1/featured.png" />
     </item>
     
@@ -24,7 +34,7 @@
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alpac4t.fun/sketch/poster_design_1/</guid>
-      <description>2022北京冬奥会：&amp;ldquo;时尚奥运，燃情冬奥&amp;rdquo; # 学院端午海报 # </description>
+      <description>2022北京冬奥会：&amp;ldquo;时尚奥运，燃情冬奥&amp;rdquo; #学院端午海报 #</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/sketch/poster_design_1/featured.png" />
     </item>
     
