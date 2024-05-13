@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://alpac4t.fun/</loc>
-    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-13T23:26:26+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,10 +19,54 @@
     />
   </url>
   <url>
-    <loc>https://alpac4t.fun/tags/godot/</loc>
-    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+    <loc>https://alpac4t.fun/blogs/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alpac4t.fun/en/blogs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://alpac4t.fun/blogs/"
+    />
+  </url>
+  <url>
+    <loc>https://alpac4t.fun/tags/experimental/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alpac4t.fun/blogs/farcry_cpu_terrain/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alpac4t.fun/tags/godot/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alpac4t.fun/tags/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://alpac4t.fun/en/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://alpac4t.fun/tags/"
+    />
   </url>
   <url>
     <loc>https://alpac4t.fun/sketch/</loc>
@@ -45,22 +89,6 @@
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://alpac4t.fun/tags/</loc>
-    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://alpac4t.fun/en/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://alpac4t.fun/tags/"
-    />
   </url>
   <url>
     <loc>https://alpac4t.fun/sketch/styletest_dither/</loc>
@@ -105,12 +133,6 @@
   <url>
     <loc>https://alpac4t.fun/project/untouchable/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://alpac4t.fun/tags/experimental/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -179,21 +201,6 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://alpac4t.fun/blogs/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://alpac4t.fun/en/blogs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://alpac4t.fun/blogs/"
-    />
   </url>
   <url>
     <loc>https://alpac4t.fun/authors/</loc>

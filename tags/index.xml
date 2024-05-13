@@ -6,12 +6,22 @@
     <description>Recent content in Tags on 猫驼小天地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2023 Alpac4t</copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Alpac4t</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimental</title>
+      <link>https://alpac4t.fun/tags/experimental/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alpac4t.fun/tags/experimental/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Godot</title>
       <link>https://alpac4t.fun/tags/godot/</link>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alpac4t.fun/tags/godot/</guid>
       <description></description>
@@ -44,16 +54,6 @@
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alpac4t.fun/tags/jam-game/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Experimental</title>
-      <link>https://alpac4t.fun/tags/experimental/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alpac4t.fun/tags/experimental/</guid>
       <description></description>
       
     </item>

@@ -6,15 +6,25 @@
     <description>Recent content in Experimental on 猫驼小天地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2023 Alpac4t</copyright>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Alpac4t</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alpac4t.fun/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farcry地形的Godot CPU实现</title>
+      <link>https://alpac4t.fun/blogs/farcry_cpu_terrain/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alpac4t.fun/blogs/farcry_cpu_terrain/</guid>
+      <description>基于四叉树管理地形Patch，同时每个Patch有多个Tile细分增加精细度。 贴图预先生成好多个LOD，由四叉树控制加载和卸载。 使用CPU生成LOD Map来实现T-junction修复。 由于Godot当中尚未实现Runtime Virtual Texture以及缺少GPU管线的支持,未能更近一步。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/blogs/farcry_cpu_terrain/featured.jpg" />
+    </item>
+    
     <item>
       <title>白璧无瑕</title>
       <link>https://alpac4t.fun/project/flawless/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alpac4t.fun/project/flawless/</guid>
-      <description>PreviousNextsads《Flawless》并不是可能并不是一款以游戏性胜出的游戏。 我们想通过开发一款将对主题的表达放到第一位的游戏，来探索游戏设计的新方法和游戏表达的边界。</description>
+      <description>Previous Nextsads 《Flawless》并不是可能并不是一款以游戏性胜出的游戏。 我们想通过开发一款将对主题的表达放到第一位的游戏，来探索游戏设计的新方法和游戏表达的边界。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpac4t.fun/project/flawless/featured.png" />
     </item>
     
